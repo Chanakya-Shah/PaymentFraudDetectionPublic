@@ -1,4 +1,4 @@
-# ScamShield: Catching Payment Fraud with Machine Learning
+# Payment Fraud Detection Project: Catching Payment Fraud with Machine Learning
 *Chanakya Shah · Portfolio project using synthetic data (PaySim)*
 
 ---

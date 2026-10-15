@@ -1,4 +1,4 @@
-# Model Card: ScamShield Fraud Detection Model
+# Model Card: Payment Fraud Detection Model
 
 ## Model details
 - **Type:** LightGBM gradient-boosted trees (best of several hand-picked settings, chosen on the
