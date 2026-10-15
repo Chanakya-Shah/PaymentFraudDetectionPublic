@@ -3,7 +3,7 @@
 A data science project that ranks payments by fraud risk, explains every alert in plain English,
 checks the model is fair, and tests it the way a bank would before using it.
 
-**Live dashboard:** *(coming soon)*
+**Live dashboard:** [paymentfrauddetectionproject.streamlit.app](https://paymentfrauddetectionproject.streamlit.app)
 **Full write-up:** [Insight report](insight_report.md) · [Model card](model_card.md)
 
 ---
